@@ -1,4 +1,4 @@
-# well_log_clustering
+# well_log_clustering using k-mean, Spectral, Gaussian mixture, etc. 
 
 This is a package for clustering of well logs using different clustering algorithms.
 
@@ -19,5 +19,10 @@ Remove nulls
 Remove outliers
 Transforming data to [0 1]
 Exploratory Data Analysis (EDA) : Scatter plots, Density plots, Correlation Study, PCA, etc. 
+
+
+
+Contribution are welcome to include new data sets and other types of clustering methods. 
+Converting the codes to other programming languages are also welcome.
 
 

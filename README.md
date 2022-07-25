@@ -26,3 +26,4 @@ Contribution are welcome to include new data sets and other types of clustering 
 Converting the codes to other programming languages are also welcome.
 
 
+Please make sure to check the PDF file and pictures provided to give you an idea of different visualizations that you can reproduce.

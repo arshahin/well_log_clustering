@@ -1,6 +1,7 @@
 # well_log_clustering using k-mean, Spectral, Gaussian mixture, etc. 
 
-In this package, I use MATLAB for data cleaning and clustering on more than 20 wells. 
+In this package, I use MATLAB for data cleaning and clustering on more than 20 wells. Make sure to see the PDF file provided for all the visualizations.
+
 Contributors are welcome to include other datasets, other clustering and regression methods, and converting the code to other programming languages. 
 This work is not published yet, but we have other publications associated with these data. The PDF files are included. Please cite the following papers if you use the methodology presented here.
 
